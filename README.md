@@ -1,7 +1,7 @@
 # Alfred-Rectangle-Shortcuts
 This is an Alfred workflow that allows you to list and access [Rectangle](https://rectangleapp.com) shortcuts.
 
-By default, this workflow goes prepackaged if a file named RectangleConfig.json on workflow`s home folder containing default shortcuts for Rectangle.
+By default, this workflow goes prepackaged with a file named RectangleConfig.json on workflow`s home folder containing default shortcuts for Rectangle.
 
 If you use custom shortcuts you can:
 - Export your Rectangle configs as a JSON an replace the file RectangleConfig.json on the home folder of this workfow
