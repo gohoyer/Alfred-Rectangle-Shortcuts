@@ -1,6 +1,9 @@
 # Alfred-Rectangle-Shortcuts  
 This is an Alfred workflow that allows you to list and access [Rectangle](https://rectangleapp.com) shortcuts.  
 
+## Requirements
+This workflow requires you to have python3 installed on you system.
+
 ## Usage  
 Just type rct and select the option you want:  
 <img width="558" alt="main" src="https://user-images.githubusercontent.com/13389074/150990873-873be6ac-c4f9-4f1e-ba9a-5e7a24ee9ec9.png">  
