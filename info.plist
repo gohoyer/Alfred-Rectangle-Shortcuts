@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.gohoyer.rectangleshortcuts</string>
+	<key>category</key>
+	<string>Productivity</string>
+	<key>connections</key>
+	<dict>
+		<key>08690890-CE4A-4DAC-A9B8-8F3D6248D84F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F96FD8B3-39E3-4635-A8C2-FE32999791A3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>917C43D0-F26E-498D-8BC5-1D9635273EC1</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>4B918324-EA08-4A78-9FB0-07716E807A42</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1D4BA45D-18BB-4C19-8160-CB9DA8A1928A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7FCE1699-4A92-4A6D-8EF5-D0DE91B53C1E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4B918324-EA08-4A78-9FB0-07716E807A42</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FDC280AF-72AE-4344-B390-ECA58C55C9C7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>54B7E489-4FD9-4551-B304-1BEBFE8F3295</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F7C349E2-A31E-4B90-8D8F-3A0EFB89F687</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5524AE22-5623-4198-9C2A-951FAB018998</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B3EE7CFA-E420-40AB-8F01-5B6849879A0A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7FCE1699-4A92-4A6D-8EF5-D0DE91B53C1E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>54B7E489-4FD9-4551-B304-1BEBFE8F3295</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B3EE7CFA-E420-40AB-8F01-5B6849879A0A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1D4BA45D-18BB-4C19-8160-CB9DA8A1928A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>59C3A62F-C01C-416F-994F-3AA1A45FF1F6</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>F7F50978-E5FD-40EA-AA5C-AB973D8D7EA5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>729EB86E-FD0D-4A1A-8F8C-6C06C61F889A</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EB8848BD-DD5A-4FDA-BA50-AF4603370027</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5524AE22-5623-4198-9C2A-951FAB018998</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F7C349E2-A31E-4B90-8D8F-3A0EFB89F687</key>
+		<array/>
+		<key>F7F50978-E5FD-40EA-AA5C-AB973D8D7EA5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>08690890-CE4A-4DAC-A9B8-8F3D6248D84F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F96FD8B3-39E3-4635-A8C2-FE32999791A3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4B918324-EA08-4A78-9FB0-07716E807A42</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FDC280AF-72AE-4344-B390-ECA58C55C9C7</key>
+		<array/>
+	</dict>
+	<key>createdby</key>
+	<string>GoHoyer</string>
+	<key>description</key>
+	<string>Access your Rectangleapp shortcuts from Alfred</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Rectangle Shortcuts</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string></string>
+				<key>title</key>
+				<string>Rectangle config defined to {var:RECT_CONFIG_FILE}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>F7C349E2-A31E-4B90-8D8F-3A0EFB89F687</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>anchorfields</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>daterange</key>
+				<integer>0</integer>
+				<key>fields</key>
+				<array>
+					<dict>
+						<key>field</key>
+						<string>kMDItemDisplayName</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>field</key>
+						<string>kMDItemAlternateNames</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>field</key>
+						<string>kMDItemFinderComment</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+				</array>
+				<key>includesystem</key>
+				<false/>
+				<key>limit</key>
+				<integer>0</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>scopes</key>
+				<array/>
+				<key>sortmode</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>The config file can be exported from Rectangle`s preferences</string>
+				<key>title</key>
+				<string>Inform your custom Rectangle config file</string>
+				<key>types</key>
+				<array>
+					<string>*.json</string>
+				</array>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.filefilter</string>
+			<key>uid</key>
+			<string>1D4BA45D-18BB-4C19-8160-CB9DA8A1928A</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>adduuid</key>
+				<false/>
+				<key>allowemptyfiles</key>
+				<true/>
+				<key>createintermediatefolders</key>
+				<true/>
+				<key>filename</key>
+				<string>wfconfig.txt</string>
+				<key>filetext</key>
+				<string>{var:RECT_CONFIG_FILE}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>relativepathmode</key>
+				<integer>0</integer>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.writefile</string>
+			<key>uid</key>
+			<string>54B7E489-4FD9-4551-B304-1BEBFE8F3295</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>json</key>
+				<string>{
+  "alfredworkflow" : {
+    "variables" : {
+      "RECT_CONFIG_FILE": "{query}"
+    }
+  }
+}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.json</string>
+			<key>uid</key>
+			<string>7FCE1699-4A92-4A6D-8EF5-D0DE91B53C1E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>fixedorder</key>
+				<true/>
+				<key>items</key>
+				<string>[{"imagefile":"06ac88829e937045d12dc95d30dc8640af558b24.png","title":"list shortcuts","arg":"shortcuts"},{"imagefile":"07e314fa991f6df5b43eaf8ceb13a6a730d9f94b.png","title":"manage settings","arg":"settings"}]</string>
+				<key>keyword</key>
+				<string>rct</string>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>EB8848BD-DD5A-4FDA-BA50-AF4603370027</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:init_option}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>settings</string>
+						<key>outputlabel</key>
+						<string>Settings</string>
+						<key>uid</key>
+						<string>59C3A62F-C01C-416F-994F-3AA1A45FF1F6</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:init_option}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>shortcuts</string>
+						<key>outputlabel</key>
+						<string>Shortcuts</string>
+						<key>uid</key>
+						<string>729EB86E-FD0D-4A1A-8F8C-6C06C61F889A</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>noop</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>B3EE7CFA-E420-40AB-8F01-5B6849879A0A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>json</key>
+				<string>{
+  "alfredworkflow" : {
+    "variables" : {
+      "RECT_CONFIG_FILE": "{query}"
+    }
+  }
+}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.json</string>
+			<key>uid</key>
+			<string>F96FD8B3-39E3-4635-A8C2-FE32999791A3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>init_option</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>5524AE22-5623-4198-9C2A-951FAB018998</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>query=$(cat "$alfred_workflow_data"/wfconfig.txt || echo "")
+
+echo -n $query</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>F7F50978-E5FD-40EA-AA5C-AB973D8D7EA5</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Loading Config File</string>
+				<key>script</key>
+				<string>export PATH="/opt/homebrew/bin:/usr/local/bin:${PATH}"
+python3 ListAvaliable.py</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>ListAvaliable.py</string>
+				<key>subtext</key>
+				<string>Select an action</string>
+				<key>title</key>
+				<string>Rectangle Shortcuts</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>4B918324-EA08-4A78-9FB0-07716E807A42</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>on run
+  set theQuery to "{query}"
+
+  # Separe the key from the modifier code
+  set AppleScript's text item delimiters to "#with#"
+  set key_to_press to text item 1 of theQuery
+  set modifier_code to text item 2 of theQuery
+
+  # Converts the codes to the respective modifiers. Refs:
+	#   https://stackoverflow.com/questions/21878482/what-do-the-parameter-values-in-applesymbolichotkeys-plist-dict-represent
+	#   https://github.com/phracker/MacOSX-SDKs/blob/master/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/Headers/Events.h
+	if (modifier_code = "131072") then
+		tell application "System Events" to key code key_to_press using {shift down}
+	else if (modifier_code = "262144") then
+		tell application "System Events" to key code key_to_press using {control down}
+	else if (modifier_code = "524288") then
+		tell application "System Events" to key code key_to_press using {option down}
+	else if (modifier_code = "1048576") then
+		tell application "System Events" to key code key_to_press using {command down}
+	else if (modifier_code = "393216") then
+		tell application "System Events" to key code key_to_press using {shift down, control down}
+	else if (modifier_code = "655360") then
+		tell application "System Events" to key code key_to_press using {shift down, option down}
+	else if (modifier_code = "1179648") then
+		tell application "System Events" to key code key_to_press using {shift down, command down}
+	else if (modifier_code = "786432") then
+		tell application "System Events" to key code key_to_press using {control down, option down}
+	else if (modifier_code = "1310720") then
+		tell application "System Events" to key code key_to_press using {control down, command down}
+	else if (modifier_code = "1572864") then
+		tell application "System Events" to key code key_to_press using {option down, command down}
+	else if (modifier_code = "917504") then
+		tell application "System Events" to key code key_to_press using {shift down, control down, option down}
+	else if (modifier_code = "1441792") then
+		tell application "System Events" to key code key_to_press using {shift down, control down, command down}
+	else if (modifier_code = "1703936") then
+		tell application "System Events" to key code key_to_press using {shift down, option down, command down}
+	else if (modifier_code = "1835008") then
+		tell application "System Events" to key code key_to_press using {control down, option down, command down}
+	else if (modifier_code = "1966080") then
+		tell application "System Events" to key code key_to_press using {shift down, control down, option down, command down}
+	end if
+end run</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>FDC280AF-72AE-4344-B390-ECA58C55C9C7</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>1</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string>Saved Config</string>
+						<key>uid</key>
+						<string>917C43D0-F26E-498D-8BC5-1D9635273EC1</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Default Config</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>08690890-CE4A-4DAC-A9B8-8F3D6248D84F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>This workflow allows you to access your Rectangleapp shortcuts from Alfred.
+
+By default, this workflow goes with a file named RectangleConfig.json on workflow`s home folder containing default shortcuts for Rectangle.
+
+Use the settings option to point to your own Rectangle config file.
+
+To export your config file from Rectangle just go to preferences and use the export button at the bottom right corner.
+
+
+Usage:
+
+Just type rct and select the option you want.</string>
+	<key>uidata</key>
+	<dict>
+		<key>08690890-CE4A-4DAC-A9B8-8F3D6248D84F</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>xpos</key>
+			<integer>660</integer>
+			<key>ypos</key>
+			<integer>405</integer>
+		</dict>
+		<key>1D4BA45D-18BB-4C19-8160-CB9DA8A1928A</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>note</key>
+			<string>Asks for the config file</string>
+			<key>xpos</key>
+			<integer>490</integer>
+			<key>ypos</key>
+			<integer>135</integer>
+		</dict>
+		<key>4B918324-EA08-4A78-9FB0-07716E807A42</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>note</key>
+			<string>List avaliable shortcuts</string>
+			<key>xpos</key>
+			<integer>970</integer>
+			<key>ypos</key>
+			<integer>400</integer>
+		</dict>
+		<key>54B7E489-4FD9-4551-B304-1BEBFE8F3295</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>note</key>
+			<string>Saves the informed file on workflow config</string>
+			<key>xpos</key>
+			<integer>830</integer>
+			<key>ypos</key>
+			<integer>135</integer>
+		</dict>
+		<key>5524AE22-5623-4198-9C2A-951FAB018998</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>xpos</key>
+			<integer>240</integer>
+			<key>ypos</key>
+			<integer>320</integer>
+		</dict>
+		<key>7FCE1699-4A92-4A6D-8EF5-D0DE91B53C1E</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>note</key>
+			<string>Overrides the RECT_CONFIG_FILE variable</string>
+			<key>xpos</key>
+			<integer>700</integer>
+			<key>ypos</key>
+			<integer>165</integer>
+		</dict>
+		<key>B3EE7CFA-E420-40AB-8F01-5B6849879A0A</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>xpos</key>
+			<integer>340</integer>
+			<key>ypos</key>
+			<integer>295</integer>
+		</dict>
+		<key>EB8848BD-DD5A-4FDA-BA50-AF4603370027</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>note</key>
+			<string>List avaliable options</string>
+			<key>xpos</key>
+			<integer>45</integer>
+			<key>ypos</key>
+			<integer>290</integer>
+		</dict>
+		<key>F7C349E2-A31E-4B90-8D8F-3A0EFB89F687</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>note</key>
+			<string>Notifies the user about the current config file</string>
+			<key>xpos</key>
+			<integer>1065</integer>
+			<key>ypos</key>
+			<integer>135</integer>
+		</dict>
+		<key>F7F50978-E5FD-40EA-AA5C-AB973D8D7EA5</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>note</key>
+			<string>Read config file</string>
+			<key>xpos</key>
+			<integer>490</integer>
+			<key>ypos</key>
+			<integer>385</integer>
+		</dict>
+		<key>F96FD8B3-39E3-4635-A8C2-FE32999791A3</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>note</key>
+			<string>Load RECT_CONFIG_FILE from workflow config file.</string>
+			<key>xpos</key>
+			<integer>840</integer>
+			<key>ypos</key>
+			<integer>315</integer>
+		</dict>
+		<key>FDC280AF-72AE-4344-B390-ECA58C55C9C7</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>note</key>
+			<string>Trigger shortcut</string>
+			<key>xpos</key>
+			<integer>1170</integer>
+			<key>ypos</key>
+			<integer>400</integer>
+		</dict>
+	</dict>
+	<key>variables</key>
+	<dict>
+		<key>RECT_CONFIG_FILE</key>
+		<string>RectangleConfig.json</string>
+	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.1.0</string>
+	<key>webaddress</key>
+	<string>https://github.com/gohoyer</string>
+</dict>
+</plist>
